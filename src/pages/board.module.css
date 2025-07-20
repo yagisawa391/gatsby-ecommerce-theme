@@ -1,0 +1,29 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.form input,
+.form textarea {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.postList {
+  list-style: none;
+  padding: 0;
+}
+
+.post {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+
+.postHeader {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.25rem;
+}

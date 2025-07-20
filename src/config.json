@@ -137,6 +137,11 @@
       "menuLabel": "About",
       "menuLink": "/about",
       "category": null
+    },
+    {
+      "menuLabel": "Board",
+      "menuLink": "/board",
+      "category": null
     }
   ],
   "filters": [
